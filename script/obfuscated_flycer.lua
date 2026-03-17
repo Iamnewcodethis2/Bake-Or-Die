@@ -1,6 +1,3 @@
--- Obfuscated by : Flycer Obfuscator
--- Obfuscated at : 14/3/2026, 13.05.59
-
 local __L87a2046a="c202823ac68bf59e8ade9e12f04"
 local __FLYcc405="f5ea4f0aaf4bb54d715255b8da15fe96a5417fdfc84dfe578575038d"
 local ___Cfafe="734664fffba2b36b9f34814fb2420b845830"
